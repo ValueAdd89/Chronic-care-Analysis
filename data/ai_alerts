@@ -1,0 +1,46 @@
+user_id,alert_date,alert_type,severity,resolved,resolution_time_hours,triggered_by
+U001,2024-06-01,Medication Adherence,Medium,1,4.5,ML_Model
+U002,2024-06-01,Blood Pressure Spike,High,1,2.3,Vitals_Monitor
+U003,2024-06-01,Activity Drop,Low,1,8.7,Activity_Tracker
+U004,2024-06-02,Glucose Anomaly,High,1,1.8,Glucose_Monitor
+U005,2024-06-02,Breathing Pattern,Critical,0,0,Respiratory_Monitor
+U006,2024-06-02,Medication Adherence,Medium,1,6.2,ML_Model
+U007,2024-06-03,Sleep Disruption,Low,1,12.4,Sleep_Tracker
+U008,2024-06-03,Heart Rate Irregular,High,0,0,Cardiac_Monitor
+U009,2024-06-03,Activity Drop,Medium,1,5.8,Activity_Tracker
+U010,2024-06-04,Medication Adherence,Low,1,3.2,ML_Model
+U011,2024-06-04,Blood Pressure Spike,High,1,2.1,Vitals_Monitor
+U012,2024-06-05,Glucose Anomaly,Critical,0,0,Glucose_Monitor
+U013,2024-06-05,Sleep Disruption,Medium,1,7.3,Sleep_Tracker
+U014,2024-06-05,Breathing Pattern,High,1,3.8,Respiratory_Monitor
+U015,2024-06-06,Activity Drop,Low,1,9.5,Activity_Tracker
+U016,2024-06-06,Medication Adherence,Medium,1,4.7,ML_Model
+U017,2024-06-07,Heart Rate Irregular,Low,1,6.1,Cardiac_Monitor
+U018,2024-06-07,Breathing Pattern,Critical,0,0,Respiratory_Monitor
+U019,2024-06-07,Blood Pressure Spike,High,1,1.9,Vitals_Monitor
+U020,2024-06-08,Glucose Anomaly,Medium,1,5.4,Glucose_Monitor
+U021,2024-06-08,Sleep Disruption,Low,1,11.2,Sleep_Tracker
+U022,2024-06-09,Medication Adherence,High,1,3.6,ML_Model
+U023,2024-06-09,Activity Drop,Medium,1,7.8,Activity_Tracker
+U024,2024-06-10,Heart Rate Irregular,High,0,0,Cardiac_Monitor
+U025,2024-06-10,Blood Pressure Spike,Medium,1,4.2,Vitals_Monitor
+U001,2024-06-11,Sleep Disruption,Low,1,8.9,Sleep_Tracker
+U002,2024-06-11,Glucose Anomaly,High,1,2.7,Glucose_Monitor
+U003,2024-06-12,Medication Adherence,Medium,1,5.1,ML_Model
+U004,2024-06-12,Breathing Pattern,High,1,3.4,Respiratory_Monitor
+U005,2024-06-13,Activity Drop,Critical,0,0,Activity_Tracker
+U006,2024-06-13,Heart Rate Irregular,Medium,1,6.8,Cardiac_Monitor
+U007,2024-06-14,Blood Pressure Spike,Low,1,10.3,Vitals_Monitor
+U008,2024-06-14,Medication Adherence,Critical,0,0,ML_Model
+U009,2024-06-15,Sleep Disruption,Medium,1,7.6,Sleep_Tracker
+U010,2024-06-15,Glucose Anomaly,High,1,2.9,Glucose_Monitor
+U011,2024-06-16,Activity Drop,Low,1,9.7,Activity_Tracker
+U012,2024-06-16,Breathing Pattern,High,1,3.1,Respiratory_Monitor
+U013,2024-06-17,Heart Rate Irregular,Medium,1,5.5,Cardiac_Monitor
+U014,2024-06-17,Medication Adherence,Low,1,4.8,ML_Model
+U015,2024-06-18,Blood Pressure Spike,High,1,2.4,Vitals_Monitor
+U016,2024-06-19,Sleep Disruption,Medium,1,6.9,Sleep_Tracker
+U017,2024-06-19,Glucose Anomaly,Low,1,8.1,Glucose_Monitor
+U018,2024-06-20,Activity Drop,High,0,0,Activity_Tracker
+U019,2024-06-20,Breathing Pattern,Medium,1,4.3,Respiratory_Monitor
+U020,2024-06-20,Heart Rate Irregular,Critical,0,0,Cardiac_Monitor

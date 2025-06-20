@@ -1,0 +1,26 @@
+user_id,condition,gender,age,registration_date
+U001,Diabetes,Female,45,2023-01-15
+U002,Hypertension,Male,52,2023-01-18
+U003,Heart Disease,Female,38,2023-01-22
+U004,Diabetes,Male,41,2023-01-25
+U005,Asthma,Female,29,2023-02-01
+U006,Hypertension,Male,59,2023-02-05
+U007,Diabetes,Female,33,2023-02-10
+U008,Heart Disease,Male,48,2023-02-14
+U009,Asthma,Female,36,2023-02-18
+U010,Diabetes,Male,55,2023-02-22
+U011,Hypertension,Female,44,2023-02-25
+U012,Heart Disease,Male,61,2023-03-01
+U013,Diabetes,Female,39,2023-03-05
+U014,Asthma,Male,42,2023-03-08
+U015,Hypertension,Female,50,2023-03-12
+U016,Diabetes,Male,47,2023-03-15
+U017,Heart Disease,Female,54,2023-03-18
+U018,Asthma,Male,35,2023-03-22
+U019,Diabetes,Female,43,2023-03-25
+U020,Hypertension,Male,58,2023-03-28
+U021,Heart Disease,Female,49,2023-04-01
+U022,Diabetes,Male,40,2023-04-04
+U023,Asthma,Female,31,2023-04-08
+U024,Hypertension,Male,53,2023-04-12
+U025,Diabetes,Female,46,2023-04-15

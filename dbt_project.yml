@@ -1,0 +1,20 @@
+
+name: 'chroniccare_analytics'
+version: '1.0'
+config-version: 2
+
+profile: 'default'
+
+model-paths: ["models"]
+seed-paths: ["data"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+models:
+  chroniccare_analytics:
+    staging:
+      +schema: staging
+    marts:
+      +schema: mart
